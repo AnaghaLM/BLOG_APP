@@ -1,4 +1,4 @@
-const SERVER_URL="http://localhost:3000"
+const SERVER_URL="https://blog-app-backend-jy6d.onrender.com"
 
 
 
